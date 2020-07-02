@@ -3,7 +3,7 @@
 </template>
 
 <script>
-  import "particles.js"
+  import "../../node_modules/particles.js/particles"
   export default {
     name: "back_particles",
     mounted() {

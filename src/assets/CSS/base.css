@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC",
+               "Hiragino Sans GB", "Microsoft YaHei",
+               "微软雅黑", Arial, sans-serif;
+  width: 100%;
+  height: 100%;
+  background: url("~assets/Images/background/topimg.jpg") repeat-x,
+              url("~assets/Images/background/bg.gif");
+}
